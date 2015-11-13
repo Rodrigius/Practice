@@ -1,8 +1,9 @@
 print("Do you wanna #%$^ a snowman?");
 print("Anna, tits or gtfo!");
-print("Oishi desu");
-Print("one more time");
-print("123");
-print("456");
-print("789");
-print("000");
+print("Oishi desu!");
+Print("one more time!");
+print("123!");
+print("456!");
+print("789!");
+print("000!");
+
