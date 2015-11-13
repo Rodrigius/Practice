@@ -1,0 +1,2 @@
+print("Sayonara");
+print("Mate ashite");
